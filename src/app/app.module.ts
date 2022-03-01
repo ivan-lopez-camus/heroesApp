@@ -14,7 +14,7 @@ import { ErrorPageComponent } from './shared/error-page/error-page.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
